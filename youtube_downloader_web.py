@@ -1,8 +1,6 @@
 import streamlit as st
 from pytube import YouTube
 
-""" Ready to deploy. """
-
 styles = """
 <style>
 [class="css-ue6h4q e1y5xkzn3"] {
